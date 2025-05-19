@@ -1,0 +1,31 @@
+[project]
+name = "news-mind-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ahmedashfaq850", email = "ahmedashfaq6777@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=3.4.3",
+    "black>=25.1.0",
+    "crawl4ai>=0.6.3",
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.115.12",
+    "langchain>=0.3.25",
+    "langchain-text-splitters>=0.3.8",
+    "openai-agents>=0.0.12",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+    "uvicorn>=0.34.2",
+]
+
+[project.scripts]
+news-mind-ai = "news_mind_ai:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
