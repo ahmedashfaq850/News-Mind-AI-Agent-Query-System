@@ -1,13 +1,23 @@
-# 🧠 NewsMind AI
+# 🧠 NewsMind AI: Multi-Agent News Query System
 
 **NewsMind AI** is a multi-agent news analysis system powered by language models and vector databases. Users can ask questions about topics that interest them, and AI agents collaborate to search, summarize, and analyze recent news from trusted sources. Unlike traditional keyword-based search engines, NewsMind AI enables natural, conversational exploration of news with contextual memory for follow-ups.
 
+---
+
+## Project Demo Video
+https://github.com/user-attachments/assets/21f53819-7eff-485a-8f8a-77411b4274a2
+
+
+---
+
 ## Architecture Diagram
-<img width="707" alt="Image" src="https://github.com/user-attachments/assets/cf95c386-f68c-4b6b-941a-bd94ff240601" />
+<img width="707" alt="Image" src="https://github.com/user-attachments/assets/42580241-5175-463d-b6eb-8e9f7d0f5a60" />
+
+
+---
 
 ## Frontend Architecture Diagram
-<img width="905" alt="Image" src="https://github.com/user-attachments/assets/f1604705-34a3-4d49-8425-68a6fe4c6821" />
-
+<img width="905" alt="Image" src="https://github.com/user-attachments/assets/d5bd2d76-4d20-44f1-baa1-584ff7874ea4" />
 ---
 
 ## 🚀 Key Features
